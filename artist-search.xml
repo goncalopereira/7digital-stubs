@@ -1,0 +1,3107 @@
+<response status="ok" version="1.2" xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<searchResults>
+<page>1</page>
+<pageSize>100</pageSize>
+<totalItems>915</totalItems>
+<searchResult>
+<type>track</type>
+<track id="11612115">
+<title>Bohemian Rhapsody</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>355</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029604</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/01-Bohemian-Rhapsody/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612123">
+<title>Don't Stop Me Now</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>7</trackNumber>
+<duration>210</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029610</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/07-Dont-Stop-Me-Now/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612133">
+<title>We Will Rock You</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>16</trackNumber>
+<duration>122</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029618</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/16-We-Will-Rock-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612134">
+<title>We Are The Champions</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>17</trackNumber>
+<duration>187</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029619</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/17-We-Are-The-Champions/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612116">
+<title>Another One Bites The Dust</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>2</trackNumber>
+<duration>215</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029605</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/02-Another-One-Bites-The-Dust/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612126">
+<title>Somebody To Love</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>10</trackNumber>
+<duration>296</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029613</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/10-Somebody-To-Love/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612125">
+<title>Crazy Little Thing Called Love</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>9</trackNumber>
+<duration>163</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029612</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/09-Crazy-Little-Thing-Called-Love/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612122">
+<title>You're My Best Friend</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>171</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029609</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/06-Youre-My-Best-Friend/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612119">
+<title>Fat Bottomed Girls</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>4</trackNumber>
+<duration>202</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029607</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/04-Fat-Bottomed-Girls/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618633">
+<title>I Want To Break Free</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>5</trackNumber>
+<duration>258</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029625</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/05-I-Want-To-Break-Free/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612118">
+<title>Killer Queen</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>3</trackNumber>
+<duration>180</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029606</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/03-Killer-Queen/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618637">
+<title>Who Wants To Live Forever</title>
+<version>2011 Remaster</version>
+<artist id="883463">
+<name>Queen / The National Philharmonic Orchestra</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-the-national-philharmonic-orchestra/?partner=722</url>
+</artist>
+<trackNumber>9</trackNumber>
+<duration>295</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029629</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/09-Who-Wants-To-Live-Forever/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618623">
+<title>A Kind Of Magic</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>262</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029621</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/01-A-Kind-Of-Magic/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618624">
+<title>Under Pressure</title>
+<version>2011 Remaster</version>
+<artist id="763422">
+<name>Queen / David Bowie</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-david-bowie-1/?partner=722</url>
+</artist>
+<trackNumber>2</trackNumber>
+<duration>237</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029622</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/02-Under-Pressure/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180071">
+<title>Bohemian Rhapsody</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>355</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029604</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/01-Bohemian-Rhapsody/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618646">
+<title>The Show Must Go On</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>16</trackNumber>
+<duration>264</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029636</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/16-The-Show-Must-Go-On/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618630">
+<title>Radio Ga Ga</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>3</trackNumber>
+<duration>343</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029623</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/03-Radio-Ga-Ga/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180077">
+<title>Don't Stop Me Now</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>7</trackNumber>
+<duration>210</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029610</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/07-Dont-Stop-Me-Now/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180120">
+<title>These Are The Days Of Our Lives</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>316</trackNumber>
+<duration>256</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103766</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/316-These-Are-The-Days-Of-Our-Lives/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180103">
+<title>The Show Must Go On</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>216</trackNumber>
+<duration>264</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029636</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/216-The-Show-Must-Go-On/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180096">
+<title>Who Wants To Live Forever</title>
+<version>2011 Remaster</version>
+<artist id="883463">
+<name>Queen / The National Philharmonic Orchestra</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-the-national-philharmonic-orchestra/?partner=722</url>
+</artist>
+<trackNumber>209</trackNumber>
+<duration>295</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029629</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/209-Who-Wants-To-Live-Forever/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180080">
+<title>Somebody To Love</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>10</trackNumber>
+<duration>296</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029613</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/10-Somebody-To-Love/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612131">
+<title>Flash</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>14</trackNumber>
+<duration>167</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029616</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/14-Flash/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180092">
+<title>I Want To Break Free</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>205</trackNumber>
+<duration>258</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029625</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/205-I-Want-To-Break-Free/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180087">
+<title>We Are The Champions</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>17</trackNumber>
+<duration>187</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029619</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/17-We-Are-The-Champions/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612120">
+<title>Bicycle Race</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>5</trackNumber>
+<duration>181</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029608</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/05-Bicycle-Race/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180086">
+<title>We Will Rock You</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>16</trackNumber>
+<duration>122</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029618</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/16-We-Will-Rock-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180107">
+<title>Barcelona</title>
+<version>Single Version - 2011 Remaster</version>
+<artist id="394734">
+<name>Freddie Mercury / Montserrat Caballé</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/freddie-mercury-montserrat-caballe-1/?partner=722</url>
+</artist>
+<trackNumber>303</trackNumber>
+<duration>265</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103754</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/303-Barcelona/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180090">
+<title>Radio Ga Ga</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>203</trackNumber>
+<duration>343</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029623</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/203-Radio-Ga-Ga/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180089">
+<title>Under Pressure</title>
+<version>2011 Remaster</version>
+<artist id="763422">
+<name>Queen / David Bowie</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-david-bowie-1/?partner=722</url>
+</artist>
+<trackNumber>202</trackNumber>
+<duration>237</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029622</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/202-Under-Pressure/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180114">
+<title>Living On My Own</title>
+<version>2011 Remaster</version>
+<artist id="16240">
+<name>Freddie Mercury</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/freddie-mercury/?partner=722</url>
+</artist>
+<trackNumber>310</trackNumber>
+<duration>217</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103760</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/310-Living-On-My-Own/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180104">
+<title>One Vision</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>217</trackNumber>
+<duration>245</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029637</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/217-One-Vision/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15145016">
+<title>Too Much Love Will Kill You</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>8</trackNumber>
+<duration>259</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103755</isrc>
+<type/>
+<release id="1371245">
+<title>Made In Heaven</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527800172</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/made-in-heaven-4/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371245_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/made-in-heaven-4/08-Too-Much-Love-Will-Kill-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618632">
+<title>I Want It All</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>4</trackNumber>
+<duration>241</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029624</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/04-I-Want-It-All/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11601007">
+<title>Barcelona</title>
+<version/>
+<artist id="394734">
+<name>Freddie Mercury / Montserrat Caballé</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/freddie-mercury-montserrat-caballe-1/?partner=722</url>
+</artist>
+<trackNumber>3</trackNumber>
+<duration>265</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71030609</isrc>
+<type/>
+<release id="1055777">
+<title>Greatest Hits III</title>
+<version/>
+<type>Album</type>
+<barcode>00602527585239</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055777_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/03-Barcelona/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11601020">
+<title>Living On My Own</title>
+<version/>
+<artist id="16240">
+<name>Freddie Mercury</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/freddie-mercury/?partner=722</url>
+</artist>
+<trackNumber>10</trackNumber>
+<duration>217</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71030612</isrc>
+<type/>
+<release id="1055777">
+<title>Greatest Hits III</title>
+<version/>
+<type>Album</type>
+<barcode>00602527585239</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055777_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/10-Living-On-My-Own/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11601030">
+<title>These Are The Days Of Our Lives</title>
+<version/>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>16</trackNumber>
+<duration>262</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0900081</isrc>
+<type/>
+<release id="1055777">
+<title>Greatest Hits III</title>
+<version/>
+<type>Album</type>
+<barcode>00602527585239</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055777_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/16-These-Are-The-Days-Of-Our-Lives/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612128">
+<title>Good Old-Fashioned Lover Boy</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>12</trackNumber>
+<duration>173</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029614</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/12-Good-Old-Fashioned-Lover-Boy/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12904249">
+<title>Bohemian Rhapsody</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>11</trackNumber>
+<duration>354</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029604</isrc>
+<type/>
+<release id="1165494">
+<title>A Night At The Opera</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527644264</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/654/0001165494_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/11-Bohemian-Rhapsody/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15144801">
+<title>A Kind Of Magic</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>2</trackNumber>
+<duration>264</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029621</isrc>
+<type/>
+<release id="1371232">
+<title>A Kind Of Magic</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527799711</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371232_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-5/02-A-Kind-Of-Magic/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="13879811">
+<title>The Queen</title>
+<version/>
+<artist id="237973">
+<name>Lady GaGa</name>
+<appearsAs>Lady GaGa</appearsAs>
+<url>http://www.7digital.com/artists/lady-gaga/?partner=722</url>
+</artist>
+<trackNumber>15</trackNumber>
+<duration>317</duration>
+<explicitContent>false</explicitContent>
+<isrc>USUM71106456</isrc>
+<type/>
+<release id="1256237">
+<title>Born This Way</title>
+<version>International Special Edition Version</version>
+<type>Album</type>
+<barcode>00602527718491</barcode>
+<artist id="237973">
+<name>Lady GaGa</name>
+<appearsAs>Lady GaGa</appearsAs>
+<url>http://www.7digital.com/artists/lady-gaga/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/lady-gaga/born-this-way-7/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/562/0001256237_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/lady-gaga/born-this-way-7/15-The-Queen/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612124">
+<title>Save Me</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>8</trackNumber>
+<duration>228</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029611</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/08-Save-Me/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618647">
+<title>One Vision</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>17</trackNumber>
+<duration>245</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029637</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/17-One-Vision/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12904246">
+<title>Love Of My Life</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>9</trackNumber>
+<duration>217</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71100536</isrc>
+<type/>
+<release id="1165494">
+<title>A Night At The Opera</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527644264</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/654/0001165494_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/09-Love-Of-My-Life/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11599910">
+<title>Innuendo</title>
+<version/>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>391</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0900075</isrc>
+<type/>
+<release id="1055741">
+<title>Innuendo</title>
+<version/>
+<type>Album</type>
+<barcode>00602527577524</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/innuendo-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055741_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/innuendo-3/01-Innuendo/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15144819">
+<title>Who Wants To Live Forever</title>
+<version>2011 Remaster</version>
+<artist id="883463">
+<name>Queen / The National Philharmonic Orchestra</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-the-national-philharmonic-orchestra/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>316</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71106193</isrc>
+<type/>
+<release id="1371232">
+<title>A Kind Of Magic</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527799711</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371232_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-5/06-Who-Wants-To-Live-Forever/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180088">
+<title>A Kind Of Magic</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>201</trackNumber>
+<duration>262</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029621</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/201-A-Kind-Of-Magic/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180073">
+<title>Killer Queen</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>3</trackNumber>
+<duration>180</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029606</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/03-Killer-Queen/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11600102">
+<title>Who Wants To Live Forever</title>
+<version>Live, Wembley Stadium, July 1986</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>9</trackNumber>
+<duration>248</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0300039</isrc>
+<type/>
+<release id="1055746">
+<title>Live At Wembley Stadium</title>
+<version/>
+<type>Album</type>
+<barcode>00602527584355</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/live-at-wembley-stadium-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055746_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/live-at-wembley-stadium-1/09-Who-Wants-To-Live-Forever/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11599864">
+<title>A Kind Of Magic</title>
+<version/>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>2</trackNumber>
+<duration>265</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0900067</isrc>
+<type/>
+<release id="1055738">
+<title>A Kind Of Magic</title>
+<version/>
+<type>Album</type>
+<barcode>00602527577241</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055738_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-3/02-A-Kind-Of-Magic/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180091">
+<title>I Want It All</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>204</trackNumber>
+<duration>241</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029624</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/204-I-Want-It-All/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180121">
+<title>Thank God It's Christmas</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>317</trackNumber>
+<duration>262</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103767</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/317-Thank-God-Its-Christmas/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14129609">
+<title>Don't Stop Me Now</title>
+<version>With Long-Lost Guitars</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>203</trackNumber>
+<duration>214</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103526</isrc>
+<type/>
+<release id="1279512">
+<title>Jazz</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717685</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/jazz-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/795/0001279512_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/jazz-5/203-Dont-Stop-Me-Now/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612130">
+<title>Play The Game</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>13</trackNumber>
+<duration>212</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029615</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/13-Play-The-Game/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612132">
+<title>Seven Seas Of Rhye</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>15</trackNumber>
+<duration>167</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029617</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/15-Seven-Seas-Of-Rhye/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180079">
+<title>Crazy Little Thing Called Love</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>9</trackNumber>
+<duration>163</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029612</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/09-Crazy-Little-Thing-Called-Love/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180117">
+<title>Princes Of The Universe</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>313</trackNumber>
+<duration>212</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103763</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/313-Princes-Of-The-Universe/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180076">
+<title>You're My Best Friend</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>171</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029609</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/06-Youre-My-Best-Friend/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180072">
+<title>Another One Bites The Dust</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>2</trackNumber>
+<duration>215</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029605</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/02-Another-One-Bites-The-Dust/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15144947">
+<title>These Are The Days Of Our Lives</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>8</trackNumber>
+<duration>255</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103766</isrc>
+<type/>
+<release id="1371241">
+<title>Innuendo</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527800035</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/innuendo-4/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371241_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/innuendo-4/08-These-Are-The-Days-Of-Our-Lives/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11599942">
+<title>The Show Must Go On</title>
+<version/>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>12</trackNumber>
+<duration>276</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0900086</isrc>
+<type/>
+<release id="1055741">
+<title>Innuendo</title>
+<version/>
+<type>Album</type>
+<barcode>00602527577524</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/innuendo-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055741_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/innuendo-3/12-The-Show-Must-Go-On/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180112">
+<title>Las Palabras De Amor (The Words Of Love)</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>308</trackNumber>
+<duration>269</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103442</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/308-Las-Palabras-De-Amor-(The-Words-Of-Love)/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180119">
+<title>No One But You (Only The Good Die Young)</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>315</trackNumber>
+<duration>251</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103765</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/315-No-One-But-You-(Only-The-Good-Die-Young)/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14012350">
+<title>Rock It (Prime Jive)</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>273</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103488</isrc>
+<type/>
+<release id="1268821">
+<title>The Game</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717517</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-game-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/688/0001268821_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-game-3/06-Rock-It-(Prime-Jive)/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180108">
+<title>Too Much Love Will Kill You</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>304</trackNumber>
+<duration>259</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103755</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/304-Too-Much-Love-Will-Kill-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180113">
+<title>Driven By You</title>
+<version>2011 Remaster</version>
+<artist id="16225">
+<name>Brian May</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/brian-may/?partner=722</url>
+</artist>
+<trackNumber>309</trackNumber>
+<duration>250</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103759</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/309-Driven-By-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14129655">
+<title>Flash</title>
+<version>Single Version</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>201</trackNumber>
+<duration>168</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103537</isrc>
+<type/>
+<release id="1279514">
+<title>Flash Gordon</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717708</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/flash-gordon-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/795/0001279514_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/flash-gordon-5/201-Flash/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11599935">
+<title>These Are The Days Of Our Lives</title>
+<version/>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>8</trackNumber>
+<duration>255</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0900081</isrc>
+<type/>
+<release id="1055741">
+<title>Innuendo</title>
+<version/>
+<type>Album</type>
+<barcode>00602527577524</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/innuendo-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055741_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/innuendo-3/08-These-Are-The-Days-Of-Our-Lives/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11599844">
+<title>Radio Ga Ga</title>
+<version/>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>348</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEG9400047</isrc>
+<type/>
+<release id="1055737">
+<title>The Works</title>
+<version/>
+<type>Album</type>
+<barcode>00602527577173</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-works-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055737_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-works-2/01-Radio-Ga-Ga/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180101">
+<title>Hammer To Fall</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>214</trackNumber>
+<duration>218</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029634</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/214-Hammer-To-Fall/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180094">
+<title>It's A Hard Life</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>207</trackNumber>
+<duration>249</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029627</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/207-Its-A-Hard-Life/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12904271">
+<title>'39</title>
+<version>Live at Earl’s Court, June 1977</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>205</trackNumber>
+<duration>226</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71100993</isrc>
+<type/>
+<release id="1165495">
+<title>A Night At The Opera</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527644271</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-6/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/654/0001165495_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-6/205-39/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15144591">
+<title>Radio Ga Ga</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>348</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029623</isrc>
+<type/>
+<release id="1371216">
+<title>The Works</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717623</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-works-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371216_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-works-3/01-Radio-Ga-Ga/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11599870">
+<title>Who Wants To Live Forever</title>
+<version/>
+<artist id="883463">
+<name>Queen / The National Philharmonic Orchestra</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-the-national-philharmonic-orchestra/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>316</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0900071</isrc>
+<type/>
+<release id="1055738">
+<title>A Kind Of Magic</title>
+<version/>
+<type>Album</type>
+<barcode>00602527577241</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055738_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-3/06-Who-Wants-To-Live-Forever/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180095">
+<title>Breakthru</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>208</trackNumber>
+<duration>249</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029628</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/208-Breakthru/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618634">
+<title>Innuendo</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>388</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029626</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/06-Innuendo/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14129620">
+<title>Flash's Theme</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>210</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103355</isrc>
+<type/>
+<release id="1279514">
+<title>Flash Gordon</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717708</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/flash-gordon-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/795/0001279514_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/flash-gordon-5/01-Flashs-Theme/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618636">
+<title>Breakthru</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>8</trackNumber>
+<duration>249</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029628</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/08-Breakthru/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12904261">
+<title>Love Of My Life</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>9</trackNumber>
+<duration>217</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71100536</isrc>
+<type/>
+<release id="1165495">
+<title>A Night At The Opera</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527644271</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-6/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/654/0001165495_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-6/09-Love-Of-My-Life/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11618644">
+<title>Hammer To Fall</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>14</trackNumber>
+<duration>218</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029634</isrc>
+<type/>
+<release id="1057275">
+<title>Greatest Hits II</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583655</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/572/0001057275_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-ii-1/14-Hammer-To-Fall/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12904244">
+<title>The Prophet's Song</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>8</trackNumber>
+<duration>501</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71100539</isrc>
+<type/>
+<release id="1165494">
+<title>A Night At The Opera</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527644264</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/654/0001165494_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/08-The-Prophets-Song/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15145048">
+<title>I Was Born To Love You</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>290</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71106226</isrc>
+<type/>
+<release id="1371247">
+<title>Made In Heaven</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527800196</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/made-in-heaven-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371247_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/made-in-heaven-5/06-I-Was-Born-To-Love-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12889423">
+<title>Keep Yourself Alive</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>227</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71100445</isrc>
+<type/>
+<release id="1164240">
+<title>Queen</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527638805</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/queen-3/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/642/0001164240_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/queen-3/01-Keep-Yourself-Alive/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180084">
+<title>Flash</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>14</trackNumber>
+<duration>167</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029616</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/14-Flash/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15144835">
+<title>A Kind Of Magic</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>2</trackNumber>
+<duration>264</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029621</isrc>
+<type/>
+<release id="1371236">
+<title>A Kind Of Magic</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527799742</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-6/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371236_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-6/02-A-Kind-Of-Magic/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180102">
+<title>Friends Will Be Friends</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>215</trackNumber>
+<duration>249</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029635</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/215-Friends-Will-Be-Friends/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11600134">
+<title>We Will Rock You</title>
+<version>Live, Wembley Stadium, July 1986</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>212</trackNumber>
+<duration>168</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0300055</isrc>
+<type/>
+<release id="1055746">
+<title>Live At Wembley Stadium</title>
+<version/>
+<type>Album</type>
+<barcode>00602527584355</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/live-at-wembley-stadium-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055746_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/live-at-wembley-stadium-1/212-We-Will-Rock-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14129569">
+<title>Mustapha</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>181</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103324</isrc>
+<type/>
+<release id="1279512">
+<title>Jazz</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717685</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/jazz-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/795/0001279512_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/jazz-5/01-Mustapha/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180109">
+<title>Somebody To Love</title>
+<version>Live From The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley/1992</version>
+<artist id="883490">
+<name>Queen / George Michael</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-george-michael-1/?partner=722</url>
+</artist>
+<trackNumber>305</trackNumber>
+<duration>307</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103756</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/305-Somebody-To-Love/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11601023">
+<title>The Great Pretender</title>
+<version/>
+<artist id="16240">
+<name>Freddie Mercury</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/freddie-mercury/?partner=722</url>
+</artist>
+<trackNumber>12</trackNumber>
+<duration>206</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71030614</isrc>
+<type/>
+<release id="1055777">
+<title>Greatest Hits III</title>
+<version/>
+<type>Album</type>
+<barcode>00602527585239</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055777_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/12-The-Great-Pretender/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14180110">
+<title>You Don't Fool Me</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>306</trackNumber>
+<duration>323</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71103757</isrc>
+<type/>
+<release id="1283801">
+<title>The Platinum Collection</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527724171</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/838/0001283801_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/the-platinum-collection-1/306-You-Dont-Fool-Me/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11600081">
+<title>Radio Ga Ga</title>
+<version>Live, Knebworth, August 1986</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>11</trackNumber>
+<duration>267</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0100079</isrc>
+<type/>
+<release id="1055745">
+<title>Live Magic</title>
+<version/>
+<type>Album</type>
+<barcode>00602527584348</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/live-magic-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055745_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/live-magic-2/11-Radio-Ga-Ga/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14129320">
+<title>We Will Rock You</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>1</trackNumber>
+<duration>122</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029618</isrc>
+<type/>
+<release id="1279502">
+<title>News Of The World</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717487</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/news-of-the-world-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/795/0001279502_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/news-of-the-world-5/01-We-Will-Rock-You/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11612127">
+<title>Now I'm Here</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>11</trackNumber>
+<duration>253</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029620</isrc>
+<type/>
+<release id="1056863">
+<title>Greatest Hits</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527583648</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/568/0001056863_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-2/11-Now-Im-Here/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11600121">
+<title>Bohemian Rhapsody</title>
+<version>Live, Wembley Stadium, July 1986</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>207</trackNumber>
+<duration>351</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBCEE0300050</isrc>
+<type/>
+<release id="1055746">
+<title>Live At Wembley Stadium</title>
+<version/>
+<type>Album</type>
+<barcode>00602527584355</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/live-at-wembley-stadium-1/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055746_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/live-at-wembley-stadium-1/207-Bohemian-Rhapsody/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="14034658">
+<title>Don't Stop Me Now</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>12</trackNumber>
+<duration>209</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029610</isrc>
+<type/>
+<release id="1271076">
+<title>Jazz</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527717678</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/jazz-4/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/012/710/0001271076_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/jazz-4/12-Dont-Stop-Me-Now/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="11601005">
+<title>Under Pressure</title>
+<version>Rah Mix</version>
+<artist id="763422">
+<name>Queen / David Bowie</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-david-bowie-1/?partner=722</url>
+</artist>
+<trackNumber>2</trackNumber>
+<duration>249</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71030023</isrc>
+<type/>
+<release id="1055777">
+<title>Greatest Hits III</title>
+<version/>
+<type>Album</type>
+<barcode>00602527585239</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/010/557/0001055777_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/greatest-hits-iii-2/02-Under-Pressure/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12904240">
+<title>You're My Best Friend</title>
+<version>2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>4</trackNumber>
+<duration>171</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71029609</isrc>
+<type/>
+<release id="1165494">
+<title>A Night At The Opera</title>
+<version>2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527644264</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/654/0001165494_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-5/04-Youre-My-Best-Friend/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="15144844">
+<title>Who Wants To Live Forever</title>
+<version>2011 Remaster</version>
+<artist id="883463">
+<name>Queen / The National Philharmonic Orchestra</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen-the-national-philharmonic-orchestra/?partner=722</url>
+</artist>
+<trackNumber>6</trackNumber>
+<duration>316</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71106193</isrc>
+<type/>
+<release id="1371236">
+<title>A Kind Of Magic</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527799742</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-6/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/013/712/0001371236_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-kind-of-magic-6/06-Who-Wants-To-Live-Forever/?partner=722</url>
+</track>
+</searchResult>
+<searchResult>
+<type>track</type>
+<track id="12904266">
+<title>Keep Yourself Alive</title>
+<version>Long-Lost Retake, June 1975 - 2011 Remaster</version>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<trackNumber>201</trackNumber>
+<duration>244</duration>
+<explicitContent>false</explicitContent>
+<isrc>GBUM71100983</isrc>
+<type/>
+<release id="1165495">
+<title>A Night At The Opera</title>
+<version>Deluxe Edition 2011 Remaster</version>
+<type>Album</type>
+<barcode>00602527644271</barcode>
+<artist id="204">
+<name>Queen</name>
+<appearsAs>Queen</appearsAs>
+<url>http://www.7digital.com/artists/queen/?partner=722</url>
+</artist>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-6/?partner=722</url>
+<image>http://cdn.7static.com/static/img/sleeveart/00/011/654/0001165495_50.jpg</image>
+</release>
+<url>http://www.7digital.com/artists/queen/a-night-at-the-opera-6/201-Keep-Yourself-Alive/?partner=722</url>
+</track>
+</searchResult>
+</searchResults>
+</response>
